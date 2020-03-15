@@ -1,0 +1,143 @@
+header
+{
+   
+background-image:url(../IMAGES/scenic-view-of-dramatic-sky-during-winter-258112.jpg);
+    background-size:cover;
+    height:150px;
+    color:orange;
+    padding-top: 40px;
+    height: 90px;
+    
+
+}
+
+
+
+nav
+{
+    background-color: darkorange;
+    padding: 15px;
+    padding-left: 32%;
+    
+    
+  
+}
+nav a
+{
+    background-color: palevioletred;
+    
+    padding: 7px;
+    border-radius: 100px;
+    
+    
+}
+
+
+
+
+body
+{
+    background-color:navy;
+    font-family: arial ;
+}
+
+
+
+footer
+{
+   clear: both;
+   padding: 10px;
+   position: relative;
+   width: 100%;
+   background-color: darkorange;
+  
+    
+}
+
+   
+
+aside {
+    
+    width: 19%;
+    float: right;
+    color: white;
+    height: 220vh;
+    background-color: darkorange;
+}
+
+.logo {
+   float: left;
+  width: 100px;
+  height: 100px;
+ 
+
+}
+
+.headerh1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+
+h1 
+{
+   color: peachpuff;
+}
+
+.penguin {
+    height: 300px;
+    padding-left: 276px;
+    padding-top: 30px;
+}
+h2
+{
+    text-align: center;
+    padding-top: 20px;
+    color:bisque;
+}
+h3
+{
+    text-align: center;
+        color:lightpink;
+}
+
+.ArcticFox {
+   height: 300px;
+    padding-left: 300px;
+    align-content: center;
+  
+    width: 450px;
+    
+}
+
+.Penguin {
+    height: 300px;
+    padding-left: 300px;
+    padding-top: 50px;
+
+     
+}
+
+.PolarBear {
+     height: 300px;
+    padding-left: 300px;
+    padding-top: 50px;
+   
+    
+}
+#Link {
+color: rebeccapurple;
+
+}
+
+#asideheading {
+    color:brown;
+}
+p
+{
+    color:navy;
+    font-size: 15px;
+}
+
+
